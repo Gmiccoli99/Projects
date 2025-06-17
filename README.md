@@ -23,7 +23,6 @@ Sono state realizzate diverse visualizzazioni della rete, alcune delle quali son
 
 - `PROGETTONAFINALE.gephi` – File Gephi del progetto
 - `Relazione_Progetto_Gephi_HarryPotter_2019.pdf` – Relazione completa in PDF
-- (facoltativo) immagini o grafici in `img/` o nella release
 
 ## 🛠️ Tecnologie utilizzate
 
